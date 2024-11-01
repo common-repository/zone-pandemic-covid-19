@@ -1,0 +1,19 @@
+{
+    "name": "zekinah/zone-pandemic-covid19",
+    "description": "This plugin provides shortcode that displays the live recorded data of the covid19.",
+    "keywords": ["wordpress", "plugin", "wordpress-plugin"],
+    "homepage": "https://github.com/zekinah/zone-pandemic-covid19",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "zekinah",
+            "email": "zjlecaros@gmail.com",
+            "homepage": "https://zekinahlecaros.com/"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=5.6"
+    },
+    "minimum-stability": "stable"
+}
